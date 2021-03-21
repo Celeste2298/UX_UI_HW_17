@@ -1,1 +1,42 @@
-h1{}
+h1{ 
+    font-display:inline;
+    font-size: 36px;
+    font-family:Montserrat, sans-serif;
+    font-variant:normal;
+    color:black;    
+}
+h3{ 
+    font-display:inline;
+    font: size 14px;
+    font-family:Montserrat, sans-serif;
+    font-variant:normal;
+    color:black; 
+}
+h2{
+    font-display:inline;
+    font-size:24px;
+    font-family:Montserrat, sans-serif;
+    font-variant:normal;
+    color: black;
+}
+h3{
+    font-display:inline;
+    font-size:14px;
+    font-family:Montserrat, sans-serif;
+    font-variant:normal;
+    color: black;
+}
+h2{
+    font-display:inline;
+    font-size:18px;
+    font-family:Cantata One;
+    font-variant:normal;
+    color: black;
+}
+h3{
+    font-display:inline;
+    font-size:14px;
+    font-family:Cantata One;
+    font-variant:normal;
+    color: black;
+}
