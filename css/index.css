@@ -3,41 +3,20 @@ h1{
     font-size: 36px;
     font-family:Montserrat, sans-serif;
     font-variant:normal;
-    color:black;    
-}
-h3{ 
-    font-display:inline;
-    font: size 14px;
-    font-family:Montserrat, sans-serif;
-    font-variant:normal;
     color:black; 
 }
 h2{
     font-display:inline;
-    font-size:24px;
-    font-family:Montserrat, sans-serif;
+    font-size:24px, 18px;
+    font-family:Montserrat, sans-serif, cantata one;
     font-variant:normal;
     color: black;
 }
-h3{
-    font-display:inline;
-    font-size:14px;
-    font-family:Montserrat, sans-serif;
-    font-variant:normal;
-    color: black;
-}
-h2{
-    font-display:inline;
-    font-size:18px;
-    font-family:Cantata One;
-    font-variant:normal;
-    color: black;
-}
-h3{
-    font-display:inline;
-    font-size:14px;
-    font-family:Cantata One;
-    font-variant:normal;
+p{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-variant: normal;
     color: black;
 }
 .button1 {background-color: #E9E2C0;} /* Cream */
@@ -60,5 +39,3 @@ h3{
   margin: 4px 2px;
   cursor: pointer;
   }
-
-  
